@@ -2,7 +2,7 @@
 微众银行首届金融科技高校技术大赛_TrustTravel汇总 
 
 1 前端地址：
-
+https://github.com/kellyinn/trust-travel-front
 
 2 后端地址:
 
