@@ -4,7 +4,10 @@
 # 项目介绍
 TrustTravel是基于Fisco Bcos区块链的可信旅游服务平台，利用区块链的不可篡改与数据的真实、透明和可追溯等特性，打造可信和安全的旅游服务生态，为旅游服务提供可信、可追溯和可证明的技术保障。
 
-# 关键词
+# 项目目标
+TrustTravel致力于传递旅游服务的信任，促进区块链技术在旅游行业落地
+
+# 工具依赖
 Fisco Bcos  、 webase  、 java springboot 、 vue 、 solidity
 
 # 项目地址
@@ -13,7 +16,7 @@ Fisco Bcos  、 webase  、 java springboot 、 vue 、 solidity
 https://github.com/kellyinn/trust-travel-front
 
 2 后端地址:
-
+https://github.com/Lunaticf/TrustTravel-backend
 
 3 智能合约：
 https://github.com/xiaozhuangx/Contract
