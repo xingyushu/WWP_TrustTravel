@@ -22,7 +22,8 @@ https://github.com/Lunaticf/TrustTravel-backend
 https://github.com/xiaozhuangx/Contract
 
 # 视频地址
-This is an [演示视频地址](https://v.youku.com/v_show/id_XNDMyOTczOTE1Mg==.html?spm=a2h3j.8428770.3416059.1 "With a Title"). 
+This is the [旅游平台视频](https://v.youku.com/v_show/id_XNDMyOTczOTE1Mg==.html?spm=a2h3j.8428770.3416059.1 "With a Title"). 
+This is the [监管节点视频](https://v.youku.com/v_show/id_XNDMzMTgzMTU0NA==.html?spm=a2h3j.8428770.3416059.1 "With a Title"). 
 
 
 
