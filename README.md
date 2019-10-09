@@ -1,6 +1,9 @@
 # waterwaterpass_TrustTravel
 微众银行首届金融科技高校技术大赛_TrustTravel（全国五强）汇总 
 
+By Lv Xingyu,Liu Chaofan,Chen Bobo,Zhuang Chuxin,Yang Guofeng
+
+
 # 项目介绍
 TrustTravel是基于Fisco Bcos区块链的可信旅游服务平台，利用区块链的不可篡改与数据的真实、透明和可追溯等特性，打造可信和安全的旅游服务生态，为旅游服务提供可信、可追溯和可证明的技术保障。
 
