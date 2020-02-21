@@ -1,5 +1,5 @@
 # waterwaterpass_TrustTravel
-微众银行首届金融科技高校技术大赛_TrustTravel（全国五强）汇总 
+微众银行首届金融科技技术大赛_TrustTravel（全国五强）汇总 
 
 By Lv Xingyu,Liu Chaofan,Chen Bobo,Zhuang Chuxin,Yang Guofeng
 
